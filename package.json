@@ -1,0 +1,14 @@
+{
+  "name": "electroapp",
+  "version": "1.0.0",
+  "description": "just a simple dnd TODO App",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "abolfazl ranjbar",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^15.3.0"
+  }
+}
